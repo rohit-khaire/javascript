@@ -17,3 +17,4 @@ console.log("   RK   ".trimEnd())
 
 console.log("https://rohit%20khaire.com".replace('%20','-'))
 console.log("khairerohit".includes('Rohit'))
+console.log("Rohit".bold())
